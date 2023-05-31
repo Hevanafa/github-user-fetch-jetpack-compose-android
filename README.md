@@ -9,3 +9,13 @@ This project provides the following examples:
 - Async image loading with Coil plugin
 - JSON response parsing, including the implementation to process an array of objects
 - Android internet permission
+
+## Preview
+
+![Preview on Emulator](./preview.png)
+
+## Building
+
+1. Use Android Studio Canary build,
+2. Build --> Build Bundle / APK --> Build APK.
+
